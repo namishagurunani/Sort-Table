@@ -46,3 +46,7 @@ button {
 button:hover {
     background-color: #81858a;
 }
+tr:hover {
+    background-color: #ddd;
+}
+
