@@ -12,10 +12,8 @@ body {
     margin: 20px auto;
     width: 90%;
     max-width: 900px;
-    background-image: linear-gradient(45deg, #c3c417, transparent);
+    background-image: linear-gradient(45deg, #ddde67, transparent);
 }
-}
-
 h1 {
     font-size: 18px;
     font-weight: 600;
